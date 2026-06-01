@@ -273,12 +273,11 @@ img5:
 </html>
 ```
 ## OUTPUT
-<img width="1914" height="958" alt="img5" src="https://github.com/user-attachments/assets/1cee041b-7250-4143-83f5-1c065c2d93d3" />
-<img width="1919" height="964" alt="img4" src="https://github.com/user-attachments/assets/7e76c32d-cae2-40b4-b444-1fdaffbc8ffb" />
-<img width="1919" height="967" alt="img3" src="https://github.com/user-attachments/assets/7ae101ff-8449-4cbc-8999-171635b764fd" />
-<img width="1919" height="956" alt="img2" src="https://github.com/user-attachments/assets/d06d63a1-34c1-45a0-950e-b26a7efd5760" />
 <img width="1918" height="951" alt="img1" src="https://github.com/user-attachments/assets/89a12eb3-46da-49ae-8da9-47983cc46f50" />
-
+<img width="1919" height="956" alt="img2" src="https://github.com/user-attachments/assets/d06d63a1-34c1-45a0-950e-b26a7efd5760" />
+<img width="1919" height="967" alt="img3" src="https://github.com/user-attachments/assets/7ae101ff-8449-4cbc-8999-171635b764fd" />
+<img width="1919" height="964" alt="img4" src="https://github.com/user-attachments/assets/7e76c32d-cae2-40b4-b444-1fdaffbc8ffb" />
+<img width="1914" height="958" alt="img5" src="https://github.com/user-attachments/assets/1cee041b-7250-4143-83f5-1c065c2d93d3" />
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
